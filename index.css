@@ -1,0 +1,9 @@
+#discover {
+  background-image: url('https://i.ibb.co/V8RYZpb/Screenshot-2025-09-09-175728.png'); /* replace with your image path */
+  background-size: cover;   /* makes image cover the whole section */
+  background-position: center; /* centers the image */
+  background-repeat: no-repeat;
+  color: white;  /* optional: makes text readable on dark bg */
+  padding: 60px 20px; /* spacing so text looks better */
+  border-radius: 12px; /* optional: rounded edges */
+}
